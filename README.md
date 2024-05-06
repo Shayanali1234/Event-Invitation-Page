@@ -10,8 +10,11 @@ Features:
         Location of the event 
         Description of the event 
         
-    RSVP functionality (optional): You can optionally include an RSVP form using HTML form elements and potentially connect it to an email address for collecting guest responses.
-    Customizable design: The HTML and CSS provide a solid foundation for customization. You can easily modify fonts, colors, background images, and layout to create a visually appealing and event-specific invitation.
+    RSVP functionality (optional): You can optionally include an RSVP form using HTML form elements
+    and potentially connect it to an email address for collecting guest responses.
+    Customizable design: The HTML and CSS provide a solid foundation for customization.
+    You can easily modify fonts, colors, background images,
+    and layout to create a visually appealing and event-specific invitation.
 
     
 
