@@ -2,7 +2,7 @@
 
 This project showcases the creation of an event invitation page using HTML for structure and CSS for styling.
 
-Features:
+Features
 
     Informative content: The page clearly displays essential details about the event, including:
         Event title 
@@ -18,7 +18,7 @@ Features:
 
     
 
-Technologies Used:
+Technologies Used
 
     HTML: Structures the content of the invitation page.
     CSS: Styles the visual presentation of the invitation, making it informative and visually engaging.
